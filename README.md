@@ -1,1 +1,1 @@
-These are my practice questions for Accenture training.
+These are answers for practice questions for Accenture training.
